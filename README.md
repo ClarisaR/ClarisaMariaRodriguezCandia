@@ -3,4 +3,4 @@
 
 # 💻 Tech Stack:
 
-[java](https://img.shields.io/badge/-java-red)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
