@@ -4,5 +4,5 @@
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-red?style=plastic&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-html-orange?style=plastic&logo=java&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-yellowgreen)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=java&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-yellowgreen?style=plastic&logo=java&logoColor=white)
