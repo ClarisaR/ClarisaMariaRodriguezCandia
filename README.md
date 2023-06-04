@@ -6,3 +6,4 @@
 ![Java](https://img.shields.io/badge/java-red?style=plastic&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=java&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-yellowgreen?style=plastic&logo=java&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=java&logoColor=white)
